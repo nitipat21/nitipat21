@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nitipat21
 - 👀 I’m interested in coding...
-- 🌱 I’m currently focusing on learning Javascript and React
+- 🌱 I’m currently focusing on learning Next.js and Backend Tech stack
 - 📫 How to reach me nitipat.rstw@gmail.com...
 
 <!---
