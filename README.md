@@ -1,10 +1,16 @@
 ## Hi, I'm Nit 👋
-
-I am a self-taught programmer who are passionate about problem solving and programming. Also, I am currently pursuing my master degree to add more advance knowledge in software engineering. I am eager to learn more skills and am seeking opportunities in software engineer and developer.
+I am a self-taught programmer who is passionate about problem-solving and programming. Also, I am currently pursuing my master's degree to add more advanced knowledge in software engineering.
 ## Learning 📖
-I am currently building a personal full-stack web app and mobile app using <code><b>Nx</b></code> for managing in a monorepo, <code><b>Next.js</b></code> for the web app, <code><b>React-Native</b></code> for the mobile app, <code><b>Express.js</b></code> for the backend and <code><b>TypeScript</b></code> for the programming language. Additionally, I am utilizing <code><b>Tailwind CSS</b></code> for the design system.
+In my spare time, I am currently building a personal full-stack SaaS project using <code><b>Nx</b></code> for managing in a mono repo, <code><b>Next.js</b></code> for the full-stack web app, <code><b>React-Native</b></code> for the mobile app, <code><b>TypeScript</b></code> for the programming language. Additionally, I am utilizing <code><b>Tailwind CSS</b></code> as part of the design system.
+## Professional Experience 💼
+In my professional work, I am currently developing complex applications using a diverse set of tools and technologies. For backend development, I am leveraging the <code><b>Spring</b></code> Framework. On the front end, I am utilizing <code><b>React</b></code> with <code><b>TypeScript</b></code> For mobile app development, I am working with <code><b>React-Native</b></code>.
+
+In addition, I have experience with <code><b>AWS</b></code>, one of the leading cloud service providers, where I manage various services such as <code><b>EC2</b></code>, <code><b>RDS</b></code>, and, <code><b>S3</b></code> For real-time streaming functions, I utilize <code><b>Kafka</b></code>, a distributed event streaming platform, to handle our high-volume real-time data feeds.
+
+This combination of advanced, industry-relevant skills allows me to create comprehensive and powerful software solutions, and I am always eager to learn more and take on new challenges.
+
 ## Skills 🧠
-- ### Programming languanges
+- ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=elixir,java,python,js,ts)](https://skillicons.dev)
 - ### Frontend
 [![My Skills](https://skillicons.dev/icons?i=html,css,react,nextjs,tailwind,sass,styledcomponents)](https://skillicons.dev)
