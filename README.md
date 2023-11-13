@@ -1,7 +1,7 @@
 ## Hi, I'm Nit 👋
 I am a self-taught programmer who is passionate about problem-solving and programming. Also, I am currently pursuing my master's degree to add more advanced knowledge in software engineering.
 ## Learning 📖
-In my spare time, I am currently building a personal project using <code><b>Turborepo</b></code> for managing in a mono repo, <code><b>Next.js</b></code> for admin and client pages web application, <code><b>TypeScript</b></code> for the programming language. Additionally, I am utilizing <code><b>Tailwind CSS</b></code> as part of the design system.
+In my spare time, I am currently building a personal project using <code><b>Turborepo</b></code> for managing in a mono repository, <code><b>Next.js</b></code> for admin and client pages of the web application, <code><b>TypeScript</b></code> for the programming language. Additionally, I am using <code><b>Tailwind CSS</b></code> as part of the design system.
 ## Professional Experience 💼
 In my professional work, I am currently developing complex applications using a diverse set of tools and technologies. For backend development, I am leveraging the <code><b>Spring</b></code> Framework. On the front end, I am utilizing <code><b>React</b></code> with <code><b>TypeScript</b></code> For mobile app development, I am working with <code><b>React-Native</b></code>.
 
