@@ -1,5 +1,5 @@
 ## Hi, I'm Nit 👋
-I am passionate about solving problems with programming to make people's lives easier.
+I am passionate about solving problems with programming to make people's lives better.
 
 ## Skills 🧠
 - ### Programming languages
