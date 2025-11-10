@@ -5,7 +5,7 @@ I am passionate about solving problems with programming to make people's lives b
 - ### Programming languages
 [![My Skills](https://skillicons.dev/icons?i=js,ts,cs,elixir,java,python)](https://skillicons.dev)
 - ### Frontend
-[![My Skills](https://skillicons.dev/icons?i=html,css,sass,styledcomponents,astro,react,nextjs,vite,svelte,tailwind)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=svelte,html,css,sass,styledcomponents,astro,react,nextjs,vite,tailwind)](https://skillicons.dev)
 - ### Backend & Database
 [![My Skills](https://skillicons.dev/icons?i=dotnet,kafka,hibernate,spring,nodejs,express,flask,postgres,graphql,mysql,firebase,mongodb)](https://skillicons.dev)
 - ### Testing
